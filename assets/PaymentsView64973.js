@@ -1,1 +1,0 @@
-import{D as o}from"./Dashboard64973.js";import{_ as t,r as s,b as a,e as n,f as r,g as c}from"../index64973.js";const p={setup(){return{}},components:{Dashboard:o}},_=c("h1",null,"Pagamenti",-1);function d(m,i,l,u,f,h){const e=s("Dashboard");return a(),n("div",null,[_,r(e,{route:"payments-details"})])}const $=t(p,[["render",d]]);export{$ as default};
