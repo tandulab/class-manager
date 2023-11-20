@@ -1,1 +1,0 @@
-import{D as o}from"./Dashboard22191.js";import{_ as r,r as t,b as s,e as a,f as n,g as c}from"../index22191.js";const p={setup(){return{}},components:{Dashboard:o}},_=c("h1",null,"Partner",-1);function d(i,l,m,u,f,h){const e=t("Dashboard");return s(),a("div",null,[_,n(e,{route:"partner-policy"})])}const $=r(p,[["render",d]]);export{$ as default};
