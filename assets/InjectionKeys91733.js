@@ -1,0 +1,1 @@
+import{s as e}from"./index917335.js";import{a0 as n,o as a,E as c,K as o,H as r}from"../index91733.js";const _={};function l(t,m){const s=e;return a(),c(s,null,{title:o(()=>[r(t.$slots,"title")]),content:o(()=>[r(t.$slots,"content")]),_:3})}const d=n(_,[["render",l]]);var i=(t=>(t.FORM_VALIDATION="FORM_VALIDATION",t))(i||{});export{d as C,i as I};
