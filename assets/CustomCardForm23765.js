@@ -1,0 +1,1 @@
+import{e as s}from"./ValidateInputText23765.js";import{_ as n,a,c,w as o,a0 as r}from"../index23765.js";var _=(t=>(t.FORM_VALIDATION="FORM_VALIDATION",t))(_||{});const l={};function i(t,m){const e=s;return a(),c(e,null,{title:o(()=>[r(t.$slots,"title")]),content:o(()=>[r(t.$slots,"content")]),_:3})}const d=n(l,[["render",i]]);export{d as C,_ as I};
