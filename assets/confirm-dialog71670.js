@@ -1,0 +1,1 @@
+import{a5 as c}from"../index71670.js";function t(e){c.config.globalProperties.$confirm.require({header:e.header,group:"confirm-dialog",message:e.message,accept(){var o;(o=e.acceptCallback)==null||o.call(e)},reject(){var o;(o=e.rejectCallback)==null||o.call(e)}})}export{t as s};
